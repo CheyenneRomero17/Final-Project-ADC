@@ -18,4 +18,4 @@ There is also a data set for the nationalities (nationalities.xlsx) of each nomi
 
 These data sets were specially build to do this project, that is why the "nationalities" data set was created in this particular way.
 
-On the other hand, there is a GRAMMY.R script where all the code used to charge and analyse the data provided along with a Kaggle data set (Billboard 'The Hot 100' Songs by Dhruvil Dave. Can be find following this link: https://www.kaggle.com/dhruvildave/billboard-the-hot-100-songs)
+On the other hand, there is a GRAMMY.R script with all the code used to upload and analyse the data provided along with a Kaggle data set (Billboard 'The Hot 100' Songs by Dhruvil Dave. Can be found following this link: https://www.kaggle.com/dhruvildave/billboard-the-hot-100-songs)
